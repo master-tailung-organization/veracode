@@ -1,1 +1,1 @@
-console.log("Sample 87654321")
+console.log("Sample 654321")
