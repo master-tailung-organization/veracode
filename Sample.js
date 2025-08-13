@@ -1,1 +1,1 @@
-console.log("Sample 1111")
+console.log("Sample")
